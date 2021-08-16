@@ -19,6 +19,7 @@
     "git": "^0.1.5",
     "mongoose": "^5.13.7",
     "nodemon": "^2.0.12",
+    "npm-git-install": "^0.3.0",
     "passport": "^0.4.1",
     "passport-google-oauth20": "^2.0.0"
   }
