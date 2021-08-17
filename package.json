@@ -9,7 +9,7 @@
   },
   "scripts": {
     "start": "node index.js",
-    "dev": "nodemon index.js"
+    "dev": "nodemon index.js",
     "postinstall": "node ./scripts/post-install.js"
   },
   "author": "",
