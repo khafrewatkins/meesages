@@ -5,7 +5,7 @@
   "main": "index.js",
   "engines": {
 <<<<<<< HEAD
-    "node": "14.13.0",
+    "node": "14.17.0",
 =======
     "node": "14.17.4",
 >>>>>>> 42ef399b3424c6cd24e3a72bb0f3daf93ab6d2b3
